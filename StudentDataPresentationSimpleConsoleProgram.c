@@ -1,5 +1,5 @@
 /*
-* Title               : Simple Student Data Presentation Program (TestDeklarasiFormatdanEkspresiAlgoritma.c)
+* Title               : Simple Student Data Presentation Program (StudentDataPresentationSimpleConsoleProgram.c)
 * Program Description : Simple Exercise of C Lang. Code to Show Student Data  on The Computer Screen.
 * Author              : Muhammad Hasbi, S.T.
 * Interface           : Console
